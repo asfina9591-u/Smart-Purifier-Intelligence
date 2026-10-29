@@ -141,3 +141,13 @@ Smart-Purifier-Intelligence/
   `python capture_screenshots.py` (Captures all 6 views into `./screenshots/`)
 - **Regenerate PDF Report:**  
   `python generate_pdf.py` (Compiles the 8-page PDF report with embedded screenshots and `metrics.json` values)
+
+  
+# 💧 Smart Purifier Intelligence
+
+[🚀 **Launch Live App**](https://smart-purifier-intelligence.streamlit.app/)
+
+An AI-based filter failure prognostics dashboard built with Streamlit and machine learning. This software-only prototype uses simulated purifier telemetry for pipeline validation, not real-world field performance.
+
+---
+
